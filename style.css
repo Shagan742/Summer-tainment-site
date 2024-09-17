@@ -1,3 +1,15 @@
+
+/*navbar stuff*/
+.navbar-brand {
+    width:40px;
+    height:30px;
+    padding:10px 10px;
+}
+
+
+
+
+/*jumbotron stuff*/
 .jumbotron {
     background:url(imgs/costcologo.jpg);
     background-repeat:no-repeat;
@@ -5,9 +17,6 @@
     height:600px;
     filter: brightness(0.8);
 }
-
-.navbar-brand {
-    width:40px;
-    height:30px;
-    padding:10px 10px;
+h1.fw-bold {
+    color:white;
 }
