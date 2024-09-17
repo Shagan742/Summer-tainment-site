@@ -16,7 +16,14 @@
     background-size:cover;
     height:600px;
     filter: brightness(0.8);
+    box-shadow:inset 0px -130px 150px 0px black;
 }
-h1.fw-bold {
+
+.display-sm-block {
     color:white;
+    text-align:center;
+    margin-top:80px;
+    font-size:80px;
+    text-shadow:10px 10px 30px black;
 }
+
