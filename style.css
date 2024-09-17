@@ -1,4 +1,8 @@
 
+html {
+    overflow-x:hidden;
+}
+
 /*navbar stuff*/
 .navbar-brand {
     width:40px;
@@ -7,23 +11,22 @@
 }
 
 
-
-
 /*jumbotron stuff*/
 .jumbotron {
     background:url(imgs/costcologo.jpg);
     background-repeat:no-repeat;
     background-size:cover;
-    height:600px;
+    height:500px;
     filter: brightness(0.8);
     box-shadow:inset 0px -130px 150px 0px black;
 }
 
-.display-sm-block {
+.fw-bold {
     color:white;
     text-align:center;
     margin-top:80px;
-    font-size:80px;
+    font-size:100px;
     text-shadow:10px 10px 30px black;
 }
+
 
