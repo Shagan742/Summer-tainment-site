@@ -10,13 +10,37 @@ html {
     padding:10px 10px;
 }
 
+.navbar {
+    height:70px;
+    position:sticky;
+}
+
+.nav-item {
+    font-size:20px;
+    padding-left:10px;
+    padding-right:10px;
+    font-weight:500;
+}
+
+.nav-link {
+    background-color:darkred;
+    border-radius:6px;
+    color:white;
+}
+
+.nav-link:hover {
+    background-color:darkred;
+    border-radius:6px;
+    color:black;
+    transform:scale(1.2);
+}
 
 /*jumbotron stuff*/
 .jumbotron {
     background:url(imgs/costcologo.jpg);
     background-repeat:no-repeat;
     background-size:cover;
-    height:500px;
+    height:600px;
     filter: brightness(0.8);
     box-shadow:inset 0px -130px 150px 0px black;
 }
