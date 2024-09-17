@@ -54,3 +54,70 @@ html {
 }
 
 
+/*main content*/
+
+body {
+    background-color:darkred;
+    box-shadow: inset 0px -70px 180px 0px black;
+}
+
+/*About*/
+
+.about {
+    background-color:rgba(255, 255, 255, 0.622);
+    
+}
+
+.about-heading {
+    text-align:center;
+    font-size:80px;
+    color:darkred;
+    padding-top:50px;
+}
+
+
+/*food*/
+
+.food-heading {
+    text-align:center;
+    font-size:80px;
+    color:white;
+    padding-top:50px;
+}
+
+/*clothing*/
+
+.clothing {
+    background-color:rgba(255, 255, 255, 0.622);
+
+}
+
+.clothing-heading {
+    text-align:center;
+    font-size:80px;
+    color:darkred;
+    padding-top:50px;
+}
+
+/*convenience*/
+
+.convenience-heading {
+    text-align:center;
+    font-size:80px;
+    color:white;
+    padding-top:50px;
+}
+
+/*overall ratings*/
+
+.overallrating {
+    background-color:rgba(255, 255, 255, 0.622);
+
+}
+
+.rating-heading {
+    text-align:center;
+    font-size:80px;
+    color:darkred;
+    padding-top:50px;
+}
