@@ -1,5 +1,13 @@
 .jumbotron {
-    background:url(imgs/costcologo.avif);
+    background:url(imgs/costcologo.jpg);
     background-repeat:no-repeat;
-    
+    background-size:cover;
+    height:600px;
+    filter: brightness(0.8);
+}
+
+.navbar-brand {
+    width:40px;
+    height:30px;
+    padding:10px 10px;
 }
