@@ -71,7 +71,7 @@ body {
 
 .about {
     background-color:rgba(255, 255, 255, 0.622);
-    
+    padding-bottom:40px;
 }
 
 .about-heading {
@@ -95,6 +95,10 @@ body {
 
 
 /*food*/
+
+.food {
+    padding-bottom:40px;
+}
 
 .food-heading {
     text-align:center;
@@ -138,7 +142,7 @@ body {
 
 .clothing {
     background-color:rgba(255, 255, 255, 0.622);
-
+    padding-bottom:40px;
 }
 
 .clothing-heading {
@@ -149,6 +153,10 @@ body {
 }
 
 /*convenience*/
+
+.convenience {
+    padding-bottom:40px;
+}
 
 .convenience-heading {
     text-align:center;
@@ -161,7 +169,7 @@ body {
 
 .overallrating {
     background-color:rgba(255, 255, 255, 0.622);
-
+    padding-bottom:40px;
 }
 
 .rating-heading {
