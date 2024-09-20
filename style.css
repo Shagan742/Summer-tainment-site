@@ -181,25 +181,25 @@ body {
 }
 
 .convenience-table {
-    text-align:center;
-    padding:20px 20px;
+    justify-content:center;
     font-size:30px;
     border:2px solid white;
+    padding:20px 20px;
 }
 
 .convenience-table-heading {
     text-align:center;
-    padding:20px 20px;
     font-size:40px;
     border:2px solid white;
     color:white;
+    padding:20px 20px;
 }
 
 .convenience-table-text {
     text-align:center;
-    padding:20px 20px;
     border:2px solid white;
     color:white;
+    padding:20px 20px;
 }
 
 /*overall ratings*/
