@@ -180,6 +180,28 @@ body {
     padding-top:50px;
 }
 
+.convenience-table {
+    text-align:center;
+    padding:20px 20px;
+    font-size:30px;
+    border:2px solid white;
+}
+
+.convenience-table-heading {
+    text-align:center;
+    padding:20px 20px;
+    font-size:40px;
+    border:2px solid white;
+    color:white;
+}
+
+.convenience-table-text {
+    text-align:center;
+    padding:20px 20px;
+    border:2px solid white;
+    color:white;
+}
+
 /*overall ratings*/
 
 .overallrating {
