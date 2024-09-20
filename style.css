@@ -30,6 +30,7 @@ html {
     background-color:darkred;
     border-radius:6px;
     color:white;
+    text-align:center;
 }
 
 .nav-link:hover {
