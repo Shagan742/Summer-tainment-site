@@ -67,6 +67,10 @@ body {
     box-shadow: inset 0px -70px 180px 0px black;
 }
 
+.card-rating-text {
+    text-align:center;
+}
+
 /*About*/
 
 .about {
@@ -128,13 +132,7 @@ body {
     z-index:0;
     position:relative;
 }
-.carousel-indicators {
-    background-color:black;
-    margin-left:900px;
-    margin-right:900px;
-    z-index:0;
-    position:relative;
-}
+
 
 .food-rating {
     text-align:center;
@@ -154,6 +152,19 @@ body {
     font-size:80px;
     color:darkred;
     padding-top:50px;
+}
+
+.clothing-category {
+    color:darkred;
+    font-size:50px;
+    padding-top:20px;
+    text-align:center;
+}
+
+.clothing-rating {
+    text-align:center;
+    font-size:50px;
+    color:darkred;
 }
 
 /*convenience*/
