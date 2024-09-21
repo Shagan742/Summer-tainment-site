@@ -231,3 +231,10 @@ body {
     color:darkred;
     padding-top:50px;
 }
+
+.overall-rating-list {
+    color:darkred;
+    font-size:30px;
+    text-align:center;
+    list-style-type:none;
+}
