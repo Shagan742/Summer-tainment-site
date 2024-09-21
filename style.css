@@ -81,6 +81,10 @@ section {
     border:2px 2px solid white;
 }
 
+.card-img-top {
+    height:300px;
+}
+
 /*About*/
 
 .about {
