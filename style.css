@@ -258,6 +258,7 @@ section {
     position:fixed bottom;
     background-color:darkred;
     border-radius:0px;
+    padding:60px 60px;
 }
 
 .footer-titles {
