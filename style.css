@@ -252,3 +252,33 @@ section {
     text-align:center;
     list-style-type:none;
 }
+
+/*footer*/
+ 
+#footer {
+    position:fixed bottom;
+    background-color:darkred;
+    border-radius:0px;
+}
+
+.footer-titles {
+    color:white; 
+    font-size:40px; 
+    padding-top:50px; 
+    padding-bottom:30px; 
+    font-weight:bold; 
+    text-align:center;
+}
+
+.footer-links {
+    color:white; 
+    font-size:20px; 
+    font-weight:normal; 
+    text-decoration:none;
+}
+
+.footer-thing {
+    color:white;
+    font-size: 20px;
+    text-align:center;
+}
