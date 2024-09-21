@@ -72,12 +72,19 @@ body {
     text-align:center;
 }
 
+section {
+    box-shadow:10px 10px 60px black;
+    border-radius:10px;
+    border:2px 2px solid white;
+}
+
 /*About*/
 
 .about {
     background-color:rgba(255, 255, 255, 0.622);
     padding-bottom:40px;
 }
+
 
 .about-heading {
     text-align:center;
