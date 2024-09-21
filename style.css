@@ -182,7 +182,6 @@ body {
 }
 
 .convenience-table {
-    justify-content:center;
     font-size:30px;
     border:2px solid white;
     padding:20px 20px;
@@ -202,6 +201,14 @@ body {
     border:2px solid white;
     color:white;
     padding:20px 20px;
+}
+
+.convenience-table-text2 {
+    text-align:center;
+    border:2px solid white;
+    color:white;
+    padding:20px 20px;
+    font-size:60px;
 }
 
 .table-imgs {
