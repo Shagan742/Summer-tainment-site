@@ -47,7 +47,7 @@ html {
 
 /*jumbotron stuff*/
 .jumbotron {
-    background:url(imgs/costcologo.jpg);
+    background:url("imgs/costcologo.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     height:600px;
