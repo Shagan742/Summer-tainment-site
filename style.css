@@ -105,6 +105,8 @@ section {
 .about-img {
     height:300px;
     width:auto;
+    margin: 0 auto;
+    display:block;
 }
 
 .about-paragraph {
