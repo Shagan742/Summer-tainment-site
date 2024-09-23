@@ -103,7 +103,8 @@ section {
 }
 
 .about-img {
-    justify-content:center;
+    height:300px;
+    width:auto;
 }
 
 .about-paragraph {
